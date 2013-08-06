@@ -7,11 +7,11 @@ This agreement governs the partnership between the Founders, doing business as *
 # The Founders
 The following individuals are hereby admitted as partners in the Company (the “**Founders**”)
 
-*[founder 1]*
-*[founder 2]*
-*[founder 3]*
-...
-*[founder n]*
+*[founder 1]* 
+*[founder 2]* 
+*[founder 3]* 
+... 
+*[founder n]* 
 
 # The Project
 The Founders have organized the Company for the sole purpose of *[description of project]* (the “**Project**”).
