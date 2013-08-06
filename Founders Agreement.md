@@ -1,11 +1,11 @@
 # The Company
-This agreement governs the partnership between the Founders, doing business as *[company name]* (the "**Company**"). The Company will continue perpetually, unless dissolved in accordance with this agreement. The Founders will cause the Company to register its fictitious name in the jurisdiction where it conducts its business, as soon as reasonably practicable after the date hereof. The Company’s principal office address will be set by a majority of Founders, and initially is: *[address]*.
+This agreement governs the partnership between the Founders, doing business as *[company name]* (the " **Company** "). The Company will continue perpetually, unless dissolved in accordance with this agreement. The Founders will cause the Company to register its fictitious name in the jurisdiction where it conducts its business, as soon as reasonably practicable after the date hereof. The Company’s principal office address will be set by a majority of Founders, and initially is: *[address]* .
 
 > In most jurisdictions, for-profit unincorporated associations are general partnerships for purposes of contractual liability, and are taxed as partnerships. The structure is flexible and easy to implement. It is also riskier to its members, as each partner will have full joint and several liability for the obligations of the partnership. There are many reasons that founders of a new company may wish to form a business entity that affords limited liability to its members. However, if the company has no product, customers, investors, or revenue, then the founders may prefer to postpone the expense and paperwork distraction until a later date. In that case, they are effectively in a general partnership, whether or not they intend that result. This founders’ agreement formalizes the arrangement.
 > Throughout this template, variable language is placed *[in brackets]* and comments are in block quotes. If you use this template to populate an actual contract for signing, you may wish to add paragraph numbering. We have omitted it here to streamline future updates.
 
 # The Founders
-The following individuals are hereby admitted as partners in the Company (the “**Founders**”)
+The following individuals are hereby admitted as partners in the Company (the “ **Founders** ”)
 
 *[founder 1]* 
 *[founder 2]* 
@@ -14,12 +14,12 @@ The following individuals are hereby admitted as partners in the Company (the �
 *[founder n]* 
 
 # The Project
-The Founders have organized the Company for the sole purpose of *[description of project]* (the “**Project**”).
+The Founders have organized the Company for the sole purpose of * [description of project] * (the “ **Project** ”).
 
 > Rather than leave the purpose open to the more typical “anything permitted by law” we have proposed a limited business purpose. The intent is for the Project description to determine the scope of partner duties to the Company with precision. This precision also requires the Founders to revisit the description as they iterate the underlying product / service concept. The description should be accurate – not too vague, nor too limited. It is a good idea to have a broad description followed by specific enumeration of the general concept, e.g., “developing a software application for unix-based mobile devices to facilitate social networking between users, including a video chat application code-named Widget that is under development in the Elm and Plan languages.” It is likely that the project will morph over time, in which case the description may be updated.
 
 # Initial Capital Commitments 
-Each Founder commits to contribute up to $ *[commitment amount]* toward Company expenses when called by the Company, as non-refundable capital contributions. The Company must make capital calls of Founders *pro rata* in accordance with each Founder’s share in the Company’s profits. 
+Each Founder commits to contribute up to $ * [commitment amount] * toward Company expenses when called by the Company, as non-refundable capital contributions. The Company must make capital calls of Founders *pro rata* in accordance with each Founder’s share in the Company’s profits.  
 
 > Capital contributions are called down over time, rather than in one lump sum on signing. For very early-stage projects, the Company might not even have a bank account, and expenses should be limited. Thus as a matter of practice, Founders might find themselves paying expenses directly and treating such payments as capital contributions. The Founders should take care that any such payments are kept within budget, and are properly shared between them. 
 
@@ -68,16 +68,16 @@ The Company will be managed by the Founders, and a majority of Founders may take
 *   amend this agreement.
 
 # Duties to the Company
-The Founders must refer to the Company, in writing, all opportunities to participate in a business or activity that is directly competitive with the Project within *[geographic region]*, whether as an employee, consultant, officer, director, advisor, investor, or partner. The Company will have 15 days to decide whether to pursue any referred opportunity, and to notify the referring Founder of its decision in writing. If the Company elects not to pursue the opportunity, or if it does not notify the referring Founder of its intent in writing within the 15 day period, then the referring Founder will be free to pursue the opportunity independently. If the Company elects to pursue the opportunity, but later abandons it, then the referring Founder will be free to pursue the opportunity independently at such time.
+The Founders must refer to the Company, in writing, all opportunities to participate in a business or activity that is directly competitive with the Project within *[geographic region]* , whether as an employee, consultant, officer, director, advisor, investor, or partner. The Company will have 15 days to decide whether to pursue any referred opportunity, and to notify the referring Founder of its decision in writing. If the Company elects not to pursue the opportunity, or if it does not notify the referring Founder of its intent in writing within the 15 day period, then the referring Founder will be free to pursue the opportunity independently. If the Company elects to pursue the opportunity, but later abandons it, then the referring Founder will be free to pursue the opportunity independently at such time.
 
-Other than pursuant to the preceding paragraph, to protect the Company’s legitimate business interests, no Founder may participate in any business or activity that is directly competitive with the Project within *[geographic region]*, whether as an employee, consultant, officer, director, advisor, owner, sole proprietor, investor, or partner. The ownership of 1% or less of the securities of any publicly-traded company will not be considered participation in a competitive business or activity. The Founders’ obligations contained in this section (Duties to the Company) will continue with respect to each Founder until the later of the date that is 3 months after (i) he ceases to be a partner of the Company, and (ii) he ceases to provide any services to the Company, whether as a partner, employee, officer, director, or otherwise.
+Other than pursuant to the preceding paragraph, to protect the Company’s legitimate business interests, no Founder may participate in any business or activity that is directly competitive with the Project within *[geographic region]* , whether as an employee, consultant, officer, director, advisor, owner, sole proprietor, investor, or partner. The ownership of 1% or less of the securities of any publicly-traded company will not be considered participation in a competitive business or activity. The Founders’ obligations contained in this section (Duties to the Company) will continue with respect to each Founder until the later of the date that is 3 months after (i) he ceases to be a partner of the Company, and (ii) he ceases to provide any services to the Company, whether as a partner, employee, officer, director, or otherwise.
 
 Other than as explicitly provided herein, no Founder will have any duty to the other Founders or to the Company, including any fiduciary duty, and including any duty to refer business opportunities to the Company, or to refrain from engaging in activity that is competitive with that conducted or planned by the Company.
 
 > The first two paragraphs may be deleted if the parties find the non-compete concept objectionable. Note that some jurisdictions, such as California, would likely not enforce the second paragraph of this clause except in very limited circumstances. Other states, such as New York, are trending in the direction of giving more force to negotiated non-compete provisions in the employment context.
 
 # Project-Related Intellectual Property
-“**Project IP**” means:
+“ **Project IP** ” means:
 
 (a) contributions and inventions, discoveries, creations, developments, improvements, works of authorship and ideas (whether or not protectable under patent, copyright, or other legal theory) of any kind that are conceived, created, developed or reduced to practice by any Founder, alone or with others, while such Founder is a member of, or provides services to, the Company, regardless of whether they are conceived or made during regular working hours or at the Company’s place of work, that are directly or indirectly related to the Project, result from tasks assigned to a Founder by the Company, or are conceived or made with the use of the Company’s resources, facilities or materials; and (b) any and all patents, patent applications, copyrights, trade secrets, trademarks (whether or not registered), domain names and other intellectual property rights, worldwide, with respect to any of the foregoing.
 
@@ -120,11 +120,11 @@ All disputes arising from or related to this agreement must be submitted for bin
 Any resulting arbitration award may be enforced in any court having valid jurisdiction, wherever located. In addition, the Founders hereby irrevocably submit to the jurisdiction of the state and federal courts located in Manhattan for the enforcement of any such arbitration award.
 
 # Additional Provisions
-**Assignment**. This agreement may not be assigned by any party hereto without the written consent of all Founders.
+**Assignment** . This agreement may not be assigned by any party hereto without the written consent of all Founders.
 
-**Successors / Assigns**. This agreement shall be binding upon and inure to the benefit of the Founders, the Company, their successors, and their permitted assigns.
+**Successors / Assigns** . This agreement shall be binding upon and inure to the benefit of the Founders, the Company, their successors, and their permitted assigns.
 
-**Notices**. Any notice or other communication required or permitted under this agreement may be addressed to the recipient at its address given above, or such other address as that party may provide from time to time, and shall be deemed duly given (A) when delivered, if by hand delivery; and (B) if otherwise delivered, when written confirmation of receipt thereof is obtained (i) from the recipient; or (ii) from a nationally recognized mail carrier.
+**Notices** . Any notice or other communication required or permitted under this agreement may be addressed to the recipient at its address given above, or such other address as that party may provide from time to time, and shall be deemed duly given (A) when delivered, if by hand delivery; and (B) if otherwise delivered, when written confirmation of receipt thereof is obtained (i) from the recipient; or (ii) from a nationally recognized mail carrier.
 
 **No Third-Party Beneficiaries**. Each party hereto intends that this Agreement shall not benefit or create any right or cause of action in or on behalf of any person other than the parties hereto, except as explicitly provided otherwise herein.
 
